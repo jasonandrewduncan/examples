@@ -5,7 +5,7 @@ import javax.faces.bean.ManagedBean;
 @ManagedBean(name = "editor")
 public class EditorBean {
 
-	private String value = "This editor is provided by PrimeFaces";
+	private String value = "This editor is provided by PrimeFaces!! 3.5";
 
 	public String getValue() {
 		return value;
